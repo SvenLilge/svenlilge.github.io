@@ -1,0 +1,4 @@
+Sven Lilge received a B.Sc. and a M.Sc. degree in electrical engineering and information technology from the Leibniz University Hannover, Germany in 2014 and 2016, respectively.
+From 2017 to 2019 he worked as a research assistant at the Laboratory for Continuum Robotics at the Leibniz University Hannover.
+He is Ph.D. Candidate with the Department of Computer Science and a research assistant with the Continuum Robotics Laboratory at the University of Toronto, Canada.
+His research is primarily concerned with continuum robots focusing on design, modeling, control and kinematic evaluation.
